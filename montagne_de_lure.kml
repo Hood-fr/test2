@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="img_normal">
+		<IconStyle> 
+			<Icon><href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href></Icon>
+			<scale>1</scale>
+		</IconStyle> 
+	</Style>
+	<Style id="img_highlight">
+		<IconStyle> 
+			<Icon><href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href></Icon>
+			<scale>1</scale>
+		</IconStyle> 
+	</Style>
+	<StyleMap id="img">
+		<Pair>
+			<key>normal</key><styleUrl>#img_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key><styleUrl>#img_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+  <name><![CDATA[Montagne de Lure]]></name>
+  <description><![CDATA[22 photos<br/><a href="https://photos.daedalum.org/index.php?/category/149/flat">Aller à Montagne de Lure</a><br/>
+]]></description>
+<Region> 
+	<LatLonAltBox> 
+		<north>44.131092</north>
+		<south>44.121567</south>
+		<east>5.788727</east>
+		<west>5.751833</west>
+	</LatLonAltBox> 
+</Region> 
+
+
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Basic tools for a great day</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2432-img_2450/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204645-fa104725-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781875,44.121570,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Alone in the white</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2447-img_2452/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423210039-8aa7db1c-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781883,44.121567,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Paving the way</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2433-img_0412/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204747-f54a8882-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781762,44.122890,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Snowshoeing on Montagne de Lure</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2434-pano_0415_pano_0418_225/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204807-793bec93-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781762,44.122893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>White Hill</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2435-pano_0439_pano_0441_226/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204821-f358e665-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781747,44.122918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Wind blown ridge</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2436-img_0446/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204859-7036f429-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781452,44.123550,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Looking north</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2448-pano_0447_pano_0453___227_edit/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423211053-d335efa3-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781450,44.123550,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Pic de Bure in the distance</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2437-pano_0467_pano_0468_233/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423204935-1c5181ec-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.781442,44.123558,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Durance valley between Sisteron and Gap</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2449-pano_0487_pano_0492___239/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423211415-cd104c90-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123168,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Wind blown ridge</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2438-img_0501/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205023-11f1a113-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Mt Ventoux</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2439-img_0502/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205105-66fb4929-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Lure summit</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2440-img_0506/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205137-9d3a3b7b-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Ridge towards Mt Ventoux</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2441-pano_0510_pano_0512_238/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205151-7eafa026-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Ridge towards Mt Ventoux</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2442-img_0517/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205240-0dee15fb-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Wind blown ridge</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2443-pano_0519_pano_0520_237/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205320-2f2810b2-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Lure summit</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2444-pano_0521_pano_0525_230/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205336-d5f98ead-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Wind blown ridge</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2445-img_0526/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205405-951e0f14-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Lure summit</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2446-pano_0543_pano_0544_236/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423205419-56751a1e-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.788727,44.123163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Montagne de Lure</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2450-pano_0557_pano_0561___242/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423223808-57e26317-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.775213,44.123800,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Cairn on Lure</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2451-pano_0605_pano_0607___245/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423223850-11c3cebb-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.751833,44.131092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Shadows</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2452-img_0609/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423223911-3f08ddc2-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.751833,44.131092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>1</visibility>
+		<open>1</open>
+		<name>Walking up to the rising sun</name>
+		<Snippet></Snippet>
+		<description><![CDATA[
+<br/>
+<a href="https://photos.daedalum.org/picture.php?/2455-img_2510/category/149/flat"><img src="https://photos.daedalum.org/_data/i/upload/2016/04/23/20160423224029-c5c7c497-th.jpg"/></a><br/>
+]]></description>
+		<styleUrl>#img</styleUrl>
+		<Point>
+			<coordinates>5.773270,44.123395,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
