@@ -1,0 +1,11 @@
+    $ cat .gitignore
+    # exclude everything except directory foo/bar
+    /*
+    !/piwigo
+    !/piwigo_beta
+    /piwigo/_data/*
+    /piwigo_beta/_data/*
+    /piwigo/upload/*
+    /piwigo_beta/upload/*
+    /piwigo/galleries/*
+    /piwigo_beta/galleries/*
